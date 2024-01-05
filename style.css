@@ -4,6 +4,7 @@
 }
 .web{
     background-image:url(image.avif) ;
+    background-size: cover;
     background-position: center;
     height: 30vh;
     width: 90%;
